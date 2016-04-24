@@ -83,5 +83,5 @@ code is organized, roughly.
    + `view.js` sets down the main SVG components of the interface, draws
      the bigger elements like side-by-side views, and connects the
      different listeners to components in the DOM.
-   + `visParameters.js` is a configuration file with sane defaults for
+   + `parameters.js` is a configuration file with sane defaults for
      how things should work.
