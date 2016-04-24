@@ -126,6 +126,7 @@ var colors = {
    // color brewer 6, first excluded
    // "monotone":["#c7e9b4","#7fcdbb","#41b6c4","#2c7fb8","#253494"],
    // Same scale, with bigger steps between colors
+   // c7e9b4 7fcdbb 2fa4b2 1a6da6 1d2c8c
    "monotone": [shadeHexColor("#c7e9b4", 0), shadeHexColor("#7fcdbb", 0), shadeHexColor("#41b6c4", -7), shadeHexColor("#2c7fb8", -7), shadeHexColor("#253494", -3)],
 
    // less conclusive scales
