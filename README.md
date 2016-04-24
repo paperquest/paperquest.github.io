@@ -17,7 +17,7 @@ https://github.com/drasnop/PaperQuest
 You can contact the authors with any issues or suggestions at the
 following email addresses:
 
-* Antoine Ponsard (aponsard@cs.ubc.ca)
+* Antoine Ponsard (ponsard.antoine@gmail.com)
 * Francisco Escalona (pax@cs.ubc.ca)
 
 Running the code
