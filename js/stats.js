@@ -8,6 +8,10 @@ var datasetName = params["papers"] || "hci";
 global.dataset = parameters.datasets[datasetName];
 console.log("Loading papers dataset ", global.dataset);
 
+// Send tracking data to Google Analytics
+ga('set', 'page', '/stats/'+global.dataset.name);
+ga('send', 'pageview');
+
 var svg = d3.select("body").append("svg")
    .attr("width", window.innerWidth)
    .attr("height", 2.5 * window.innerHeight);

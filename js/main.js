@@ -8,6 +8,10 @@ var datasetName = params["papers"] || "hci";
 global.dataset = parameters.datasets[datasetName];
 console.log("Loading papers dataset ", global.dataset);
 
+// Send tracking data to Google Analytics
+ga('set', 'page', '/main/'+global.dataset.name);
+ga('send', 'pageview');
+
 $(document).ready(function() {
    // Change the label of the menu item for switching datasets
    $("#switch-dataset").text("Load " + global.dataset.switchDatasetMenuLabel + " papers")
