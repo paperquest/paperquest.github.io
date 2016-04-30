@@ -20,6 +20,15 @@ following email addresses:
 * Antoine Ponsard (ponsard.antoine@gmail.com)
 * Francisco Escalona (pax@cs.ubc.ca)
 
+
+Paper
+=====
+
+This project will be presented as a Late-Breaking Work at ACM CHI 2016, in San Jose, Ca
+The Extended Abstract describing the project's motivation and design is available at:
+http://antoineponsard.com/res/PaperQuest.pdf
+
+
 Running the code
 ================
 
