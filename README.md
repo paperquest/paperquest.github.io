@@ -5,14 +5,14 @@ A visualization tool to support literature review.
 Originally a project for CS547 at UBC, a course on Information Visualization (http://www.cs.ubc.ca/~tmm/courses/547-14/) taught by Tamara Munzner (http://www.cs.ubc.ca/~tmm/).
 
 
-Contact
-=======
+Demo
+====
 
-A demo of the system is available at the following address:
-http://www.cs.ubc.ca/~aponsard/paperquest/
+A demo of the system is available at:
+http://paperquest.github.io
 
-An updated version of this code should be available in GitHub:
-https://github.com/drasnop/PaperQuest
+The source code is available on GitHub:
+https://github.com/paperquest/paperquest.github.io
 
 You can contact the authors with any issues or suggestions at the
 following email addresses:
@@ -30,10 +30,10 @@ point a browser to that URL, no need to configure anything else.  If
 you experience problems we advice you to first check that your folder
 permissions are set correctly.
 
-Note about data:  the original dataset for this project was provided
-by Justin Matejka from the Citeology project at Autodesk.  We cannot
-publicly offer this data without permission, so until then you will
-have to provide your own dataset for the tool.
+Note about the data: the original dataset of HCI papers for this project was provided
+by Justin Matejka from the Citeology project at Autodesk. The dataset of Information
+Visualization papers comes from the Visualization Publication Dataset (http://vispubdata.org), from 
+Petra Isenberg, Florian Heimerl, Steffen Koch, Tobias Isenberg, Panpan Xu, Chad Stolper, Michael Sedl- mair, Jian Chen, Torsten Möller, and John Stask.
 
 Code structure
 ==============
