@@ -17,7 +17,7 @@ https://github.com/paperquest/paperquest.github.io
 You can contact the authors with any issues or suggestions at the
 following email addresses:
 
-* Antoine Ponsard (ponsard.antoine@gmail.com)
+* Antoine Ponsard (bycdmcyigbas@gmail.com)
 * Francisco Escalona (pax@cs.ubc.ca)
 
 
